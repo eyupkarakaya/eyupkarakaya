@@ -1,9 +1,7 @@
 ### Hi there 👋
-![Eyup's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupkarakaya&show_icons=true&theme=dark)
-![Eyup's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupkarakaya&show_icons=true&theme=merko)
-![Eyup's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupkarakaya&show_icons=true&theme=gruvbox)
+
 ![Eyup's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupkarakaya&show_icons=true&theme=synthwave)
-![Eyup's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupkarakaya&hide=contribs,prs)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
