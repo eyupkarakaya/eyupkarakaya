@@ -9,9 +9,3 @@
 
 # Merhaba, Ben Eyüp 👋
 
-### 🚀 Mühendislik Yeteneklerim
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stm32&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 📊 İstatistikler
-![Stats](https://github-readme-stats.vercel.app/api?username=eyupkarakaya&show_icons=true&theme=dark)
