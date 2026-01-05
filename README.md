@@ -6,6 +6,3 @@
   <img src="https://img.shields.io/badge/Proteus-Making%20Electronics-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Protocols-I2C%20%7C%20SPI%20%7C%20UART-green?style=for-the-badge" />
 </p>
-
-# Merhaba, Ben Eyüp 👋
-
