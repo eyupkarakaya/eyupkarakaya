@@ -7,8 +7,8 @@
   <img src="https://img.shields.io/badge/Protocols-I2C%20%7C%20SPI%20%7C%20UART-green?style=for-the-badge" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyupkarakaya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" width="400" /> 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyupkarakaya&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="400" />
-</div>
+### 📊 İstatistiklerim
+
+![İstatistikler](https://github-readme-stats.vercel.app/api?username=eyupkarakaya&show_icons=true&theme=dark)
+
+![Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=eyupkarakaya&layout=compact&theme=dark)
